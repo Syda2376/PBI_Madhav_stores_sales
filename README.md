@@ -43,5 +43,5 @@ An interactive E-Commerce Sales Dashboard developed using **Microsoft Power BI**
 To transform e-commerce sales data into meaningful visual insights that help understand business performance and support data-driven decision-making.
 
 ## Author
-**Syda**  
+**Sayeeda Fathima S**  
 B.Tech – Artificial Intelligence & Data Science
